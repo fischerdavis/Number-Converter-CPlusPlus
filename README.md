@@ -1,4 +1,4 @@
-# Number-Converter-CPlusPlus
+# Number Converter
 
 Takes an input of a number and will output the number in words.
 
